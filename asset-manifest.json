@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dostoevskayya/react-quiz/static/css/main.3ad167f6.css",
+    "main.js": "/Dostoevskayya/react-quiz/static/js/main.89c5031d.js",
+    "index.html": "/Dostoevskayya/react-quiz/index.html",
+    "main.3ad167f6.css.map": "/Dostoevskayya/react-quiz/static/css/main.3ad167f6.css.map",
+    "main.89c5031d.js.map": "/Dostoevskayya/react-quiz/static/js/main.89c5031d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad167f6.css",
+    "static/js/main.89c5031d.js"
+  ]
+}
